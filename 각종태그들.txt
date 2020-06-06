@@ -1,0 +1,8 @@
+검색
+
+html specification - 
+
+링크걸기 <a></a>
+ - <a href="(주소)" target="_blank"> </a>
+ -- target은 새 폐이지
+
